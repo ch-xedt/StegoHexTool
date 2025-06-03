@@ -1,5 +1,5 @@
 # StegoHexTool
-A minimal CLI Steganography-Tool for hiding and extracting text messages in PNG images using **LSB (Least Significant Bit** steganography.
+A minimal CLI Steganography-Tool for hiding and extracting text messages in PNG images using **LSB (Least Significant Bit)** steganography.
 Build with C++ and LodePNG.
 <br>
 <br>
