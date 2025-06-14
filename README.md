@@ -14,7 +14,7 @@ Build with C++ and LodePNG.
 
 ## Usage
 
-1. Download and open the StegoHex.exe file
+1. Download and run the `StegoHex.exe` executable
 2. Choose option (1) for encoding or option (2) for decoding text message
 3. Enter the filepath to your PNG image
 4. If option (1) is choosen, enter the text message you want to hide
